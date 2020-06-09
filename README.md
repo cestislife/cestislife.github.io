@@ -4,6 +4,10 @@
 <img src="img\breeding.png">
 <a href="https://cestislife.github.io/img/breeding.png">Full image</a>
 
+## Expanded Pansies Guide
+<img src="img\expanded_pansies.png">
+<a href="https://cestislife.github.io/img/expanded_pansies.png">Full image</a>
+
 ## Expanded Windflowers Guide
 <img src="img\expanded_windflowers.png">
 <a href="https://cestislife.github.io/img/expanded_windflowers.png">Full image</a>

@@ -1,6 +1,7 @@
 # cestislife's visual guides
 
-## July Critters: https://cestislife.github.io/critters_july.html
+## July Critters:
+<a href="https://cestislife.github.io/critters_july.html">https://cestislife.github.io/critters_july.html</a>
 
 ## Simplest Path to Non-base Flower Colours
 <img src="img\breeding.png">

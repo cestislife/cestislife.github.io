@@ -1,10 +1,10 @@
 # cestislife's visual guides
 
 ## July Critters:
-(https://cestislife.github.io/critters_july.html)
+[Critters in July](https://cestislife.github.io/critters_july.html)
 
 ## Simplest Path to Non-base Flower Colours
-!(https://cestislife.github.io/img/breeding.png)
+![Breeding Guide](https://cestislife.github.io/img/breeding.png)
 [Full Image](https://cestislife.github.io/img/breeding.png)
 
 ## Expanded Pansies Guide

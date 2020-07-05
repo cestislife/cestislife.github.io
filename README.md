@@ -4,7 +4,7 @@
 (https://cestislife.github.io/critters_july.html)
 
 ## Simplest Path to Non-base Flower Colours
-!(/img/breeding.png)
+!(https://cestislife.github.io/img/breeding.png)
 [Full Image](https://cestislife.github.io/img/breeding.png)
 
 ## Expanded Pansies Guide

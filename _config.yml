@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+logo: /img/logo.png
+title: cestislife's visual guides
+description: A compilation of guides made by cestislife.
+github:
+  is_project_page: false
+  is_user_page: false

@@ -1,7 +1,7 @@
 # cestislife's visual guides
 
 ## August Critters:
-[Critters in July](https://cestislife.github.io/critters_august)
+[Critters in August](https://cestislife.github.io/critters_august)
 
 ## Simplest Path to Non-base Flower Colours
 ![Breeding Guide](https://cestislife.github.io/img/breeding.png)

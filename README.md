@@ -1,20 +1,9 @@
 # cestislife's visual guides
 
-## August Critters:
-[Critters in August](https://cestislife.github.io/critters_august)
+## Critter Guides:
+[**Critters in July**](https://cestislife.github.io/critters_july)
 
-## Simplest Path to Non-base Flower Colours
-![Breeding Guide](https://cestislife.github.io/img/breeding.png)
-[Full Image](https://cestislife.github.io/img/breeding.png)
+[*⭐ New!* **Critters in August**](https://cestislife.github.io/critters_august)
 
-## Expanded Pansies Guide
-![Expanded Pansies](https://cestislife.github.io/img/expanded_pansies.png)
-[Full Image](https://cestislife.github.io/img/expanded_pansies.png)
-
-## Expanded Windflowers Guide
-![Expanded Windflowers](https://cestislife.github.io/img/expanded_windflowers.png)
-[Full Image](https://cestislife.github.io/img/expanded_windflowers.png)
-
-## ACNH Flower Reproduction Mechanics
-![Flower Reproduction Guide](https://cestislife.github.io/img/reproduce.png)
-[Full Image](https://cestislife.github.io/img/reproduce.png)
+## Flower Guides:
+[**Flower Guides**](https://cestislife.github.io/flower_guides)

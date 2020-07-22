@@ -1,4 +1,4 @@
-# cestislife's visual guides
+# ![cestislife's visual guides](https://cestislife.github.io/img/logo.png)
 
 ## Critter Guides:
 [Critters in July](https://cestislife.github.io/critters_july)

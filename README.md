@@ -10,4 +10,5 @@
 [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
 
 ## Rock Gardens 101:
+*⭐ New!* 
 [Rock Gardens 101](https://cestislife.github.io/rock_guide)

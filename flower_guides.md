@@ -1,5 +1,9 @@
 # Flower Guides
 
+## All Flower Phenotypes
+![Phenotypes](/img/phenotype1.png)
+[Full Image](/img/phenotype1.png)
+
 ## Simplest Path to Non-base Flower Colours
 ![Breeding Guide](https://cestislife.github.io/img/breeding.png)
 [Full Image](https://cestislife.github.io/img/breeding.png)

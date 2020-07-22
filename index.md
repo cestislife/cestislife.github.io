@@ -12,5 +12,6 @@
 *⭐ New!* 
 [Rock Gardens 101](https://cestislife.github.io/rock_guide)
 
+* * *
 #### Changelog
 > 22/2/2020 - Added August critter guide and rock guide.

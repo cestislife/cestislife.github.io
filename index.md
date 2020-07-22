@@ -3,10 +3,8 @@
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august) *⭐ New!* 
 
-## Flower Guides:
+## Garden Guides:
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
-
-## Rock Gardens 101:
 * [Rock Gardens 101](https://cestislife.github.io/rock_guide)  *⭐ New!* 
 
 * * *

@@ -13,4 +13,5 @@
 
 * * *
 #### Changelog
-> 22/2/2020 - Added August critter guide and rock guide.
+> 22/2/2020 - Site rework.
+>           - Added August critter guide and rock guide.

@@ -14,3 +14,4 @@
 > **22/2/2020**
 > * Site rework.
 > * Added August critter guide and rock guide.
+> * Added phenotype graphic in Flower Guides.

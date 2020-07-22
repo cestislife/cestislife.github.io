@@ -1,4 +1,7 @@
 # Guides
+#### Changelog
+> 22/2/2020 - Added August critter guide and rock guide.
+
 ## Critter Guides:
 [Critters in July](https://cestislife.github.io/critters_july)
 

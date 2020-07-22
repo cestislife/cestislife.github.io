@@ -1,5 +1,3 @@
-[⬅️ Back To Main Page](https://cestislife.github.io)
-
 # Flower Guides
 
 ## Simplest Path to Non-base Flower Colours
@@ -17,3 +15,5 @@
 ## ACNH Flower Reproduction Mechanics
 ![Flower Reproduction Guide](https://cestislife.github.io/img/reproduce.png)
 [Full Image](https://cestislife.github.io/img/reproduce.png)
+
+[⬅️ Back To Main Page](https://cestislife.github.io)

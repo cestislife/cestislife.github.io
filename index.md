@@ -7,8 +7,14 @@
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
 * [Rock Gardens 101](https://cestislife.github.io/rock_guide)  *⭐ New!* 
 
+## Miscellaneous Guides:
+* [Miscellaneous](https://cestislife.github.io/misc)  *⭐ New!* 
+
 * * *
 #### Changelog
+> **23/2/2020**   
+> * Added miscellaneous - balloon guide   
+
 > **22/2/2020**  
 > * Site rework.
 > * Added August critter guide and rock guide.

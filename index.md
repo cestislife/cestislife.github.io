@@ -12,6 +12,9 @@
 
 * * *
 #### Changelog
+> **30/2/2020**   
+> * Added miscellaneous - tool durability guide.  
+
 > **28/2/2020**   
 > * Added miscellaneous - pocket camp items guide.
 

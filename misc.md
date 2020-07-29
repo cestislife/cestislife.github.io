@@ -6,6 +6,9 @@
 # Pocket Camp items
 [![Pocket Camp](/img/pocketcamp.png)](/img/pocketcamp.png)
 
+# Tools & Durability
+[![Tools](/img/tools.png)](/img/tools.png)
+
 [⬅️ Back To Main Page](https://cestislife.github.io)
 
 ***

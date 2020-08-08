@@ -6,18 +6,18 @@
 
 ## Simplest Path to Non-base Flower Colours
 [![Breeding Guide](/img/breeding.png)](/img/breeding.png)
-[Full Image](/img/breeding.png)
+[Full Image](/img/breeding.png)   
 
-## Expanded Pansies Guide
-[![Expanded Pansies](/img/expanded_pansies.png)](/img/expanded_pansies.png)
-[Full Image](/img/expanded_pansies.png)
-
-## Expanded Windflowers Guide
-[![Expanded Windflowers](/img/expanded_windflowers.png)](/img/expanded_windflowers.png)
-[Full Image](/img/expanded_windflowers.png)
+**Expanded Guides for Pansies and Windflowers:**   
+- [Expanded Pansies](/img/expanded_pansies.png)   
+- [Expanded Windflowers](/img/expanded_windflowers.png)   
 
 ## ACNH Flower Reproduction Mechanics
 [![Flower Reproduction Guide](/img/reproduce.png)](/img/reproduce.png)
 [Full Image](/img/reproduce.png)
+
+## LotV Mysteries Unlocked
+[![LotV](/img/LotV.png)](/img/LotV.png)
+[Full Image](/img/LotV.png)
 
 [⬅️ Back To Main Page](https://cestislife.github.io)

@@ -1,3 +1,9 @@
+<head>
+    <meta name="twitter:site" content="@cestislife"/>
+    <meta name="twitter:title" content="cestislife's Critter Schedule: August"/>
+    <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
+</head>
+
 # August Critters:
 
 ## Northern Hemisphere

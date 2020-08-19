@@ -1,3 +1,9 @@
+<head>
+    <meta name="twitter:site" content="@cestislife"/>
+    <meta name="twitter:title" content="cestislife's Critter Schedule: September"/>
+    <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
+</head>
+
 # September Critters:
 
 ## Leaving with August

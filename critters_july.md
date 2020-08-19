@@ -1,10 +1,10 @@
+# July Critters
+
 <head>
     <meta name="twitter:site" content="@cestislife"/>
     <meta name="twitter:title" content="cestislife's Critter Schedule: July"/>
     <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
 </head>
-
-# July Critters
 
 ## Bugs
 ![Bugs July](https://cestislife.github.io/img/bug_july.png)

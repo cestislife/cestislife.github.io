@@ -1,4 +1,12 @@
 # ACNH Guides
+
+<head>
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@cestislife"/>
+    <meta name="twitter:title" content="cestislife's Critter Schedule: September"/>
+    <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
+</head>
+
 ## Critter Guides:
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)

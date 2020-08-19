@@ -4,7 +4,7 @@
     <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
 </head>
 
-# July Critters:
+# July Critters
 
 ## Bugs
 ![Bugs July](https://cestislife.github.io/img/bug_july.png)

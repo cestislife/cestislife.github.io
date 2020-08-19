@@ -14,10 +14,6 @@
 * * *
 #### Changelog
 
-<details>
-<summary>Click to expand!</summary>
-<p>
-     
 > **20/08/2020**   
 > * Added Critter Schedule - leaving August   
 
@@ -37,6 +33,3 @@
 > * Site rework.
 > * Added August critter guide and rock guide.
 > * Added phenotype graphic in Flower Guides.
-     
-</p>
-</details>

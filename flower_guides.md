@@ -1,5 +1,12 @@
 # Flower Guides
 
+<head>
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@cestislife"/>
+    <meta name="twitter:title" content="Flower Guides"/>
+    <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
+</head>
+
 ## All Flower Phenotypes
 [![Phenotypes](/img/phenotype1.png)](/img/phenotype1.png)
 [Full Image](/img/phenotype1.png)

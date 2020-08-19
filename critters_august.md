@@ -4,7 +4,7 @@
     <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
 </head>
 
-# August Critters:
+# August Critters
 
 ## Northern Hemisphere
 [![NH August Critters](https://cestislife.github.io/img/NH_august.png)](https://cestislife.github.io/img/NH_august.png)

@@ -15,7 +15,7 @@
 #### Changelog
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand!</summary>     
 
 > **20/08/2020**   
 > * Added Critter Schedule - leaving August   

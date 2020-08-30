@@ -13,7 +13,7 @@
 > * [Tall Furniture](#tall-furniture)  
 > * [Rock Garden Tips](#rock-garden-tips)  
 
-## Compressed Infographics:   
+## tl;dr Infographics:   
 > [Rock Guide Page 1](https://cestislife.github.io/img/grock_01.png)   
 > [Rock Guide Page 2](https://cestislife.github.io/img/grock_02.png)
 

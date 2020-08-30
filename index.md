@@ -22,9 +22,9 @@
 * * *
 #### Changelog
 
-<details>
-  <summary>Click here to expand!</summary>
-  <p>
+<button class="accordion">Click for details</button>
+<div class="panel">
+<p>
     
 > **30/08/2020**   
 > * Added dark mode support   
@@ -51,4 +51,4 @@
 > * Added phenotype graphic in Flower Guides.
 
 </p>
-</details>
+</div>

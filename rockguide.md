@@ -69,7 +69,7 @@ While perimeter blockers only block 1 tile around them, there is a way to extend
 
 
 ### Obstruction Blockers
-Obstruction blockers will block several tiles north of their occupying tiles. Buildings and cliffs will always block **4 tiles north**, while furniture's blocking size is dependant on their height, as will be explored in the [next section](#tall-furniture). It should be noted that these blockers can also block across multiple cliff levels.
+Obstruction blockers will block several tiles north of their occupying tiles. Buildings and cliffs will always block **4 tiles north**, while furniture's blocking size is dependant on their height, as will be explored in the [next section](#tall-furniture). It should be noted that these blockers can also **block across multiple cliff levels.** Do take this into consideration when placing furniture south of your desired rock spawn areas.
 
 Examples include:
 > * Cliffs

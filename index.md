@@ -23,7 +23,7 @@
 #### Changelog
 
 <button class="accordion">Click for details</button>
-<div class="panel">
+    <div class="panel">
     
 > **30/08/2020**   
 > * Added dark mode support   
@@ -50,3 +50,20 @@
 > * Added phenotype graphic in Flower Guides.
 
 </div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>

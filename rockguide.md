@@ -57,7 +57,7 @@ Examples include:
 > * Placed “tall” furniture
 
 ## Tall Furniture
-Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. A list of the furniture heights can be found [here](https://bit.ly/3hGAbli). Generally:
+Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. A list of the furniture heights (courtesy of Zertolurian#9617) can be found [here](https://bit.ly/3hGAbli). Generally:
 
 <table class="tg">
 <thead>
@@ -96,7 +96,8 @@ Trees present another unique rule where they can also block an area of 3 tiles h
 ***
 
 #### Credits
+> Datamine: asteriation#6884   
 > Testing & information: nomiko#0644, Zertolurian#9617   
-> Special thanks: [@B19F00T](https://twitter.com/b19f00t), Waterjar#2219, asteriation#6884, Ketama#9570  
+> Special thanks: [@B19F00T](https://twitter.com/b19f00t), Waterjar#2219, Ketama#9570  
 > Assets extracted by: Alexis#8717   
 > Guide by: [@cestislife](https://twitter.com/cestislife)

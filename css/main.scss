@@ -321,8 +321,10 @@ footer {
 .panel {
   padding: 0 18px;
   background-color: white;
-  display: none;
+  max-height: 0;
   overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
 	
 }
 .accordion:after {

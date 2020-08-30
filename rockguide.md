@@ -97,7 +97,7 @@ Trees present another unique rule where they can also block an area of 3 tiles h
 *The red Xs represent the perimeter and vertical blocking. The blue Xs represent the horizontal blocking.*
 
 ## Rock Garden Tips
-1. Placed custom designs (mannequins and easels) are the easiest to clean up blockers.  
+1. Placed custom designs (mannequins and easels) are the easiest blockers to clean up. 
 2. Perimeter blockers can be placed on half tiles to extend their blocking range.
 3. Furniture/decorations can be placed after the rocks have spawned. 
 4. For rocks that have not spawned where you wanted it to be, it could be that it has spawned elsewhere instead.

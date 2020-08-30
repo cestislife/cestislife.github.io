@@ -24,29 +24,6 @@
 
 <button class="accordion">Click for details</button>
     <div class="panel">
-    
-> **30/08/2020**   
-> * Added dark mode support   
-> * Added in-depth rock guide   
-
-> **20/08/2020**   
-> * Added Critter Schedule - leaving August   
-
-> **08/08/2020**   
-> * Added Flower Guides - LotV guide.   
-
-> **30/07/2020**   
-> * Added miscellaneous - tool durability guide.  
-
-> **28/07/2020**   
-> * Added miscellaneous - pocket camp items guide.
-
-> **23/07/2020**   
-> * Added miscellaneous - balloon guide.   
-
-> **22/07/2020**  
-> * Site rework.
-> * Added August critter guide and rock guide.
-> * Added phenotype graphic in Flower Guides.
-
-</div>
+    <h1>hes</h1>
+    <p>This is a test</p>
+    </div>

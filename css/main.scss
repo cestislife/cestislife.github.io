@@ -30,10 +30,10 @@ html[data-theme="dark"] {
 
 
 body {
-  background-color: #fff;
+  background-color: var(--main-background-color);
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color:#595959;
+  color: var(--main-text-color);
   font-weight:400;
 }
 
@@ -66,12 +66,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color: var(--link-color);
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color: var(--link-color);
 }
 
 a small {

@@ -54,7 +54,7 @@ Examples include:
 Examples include:
 > * Cliffs
 > * Buildings (incl. inclines and bridges)
-> * Trees*
+> * Trees
 > * Placed “tall” furniture
 
 ## Tall Furniture

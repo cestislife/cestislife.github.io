@@ -7,8 +7,9 @@
     <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
 </head>
 
-[Rock Spawn Conditions](#rock-spawn-conditions)   
-[Blockers](#blockers)   
+## Navigation
+> [Rock Spawn Conditions](#rock-spawn-conditions)   
+> [Blockers](#blockers)   
 
 
 ## Rock Spawn Conditions
@@ -53,6 +54,16 @@ Examples include:
 > * Buildings (incl. inclines and bridges)
 > * Trees*
 > * Placed “tall” furniture
+
+## Tall Furniture
+Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. A list of the furniture heights can be found [here](https://bit.ly/3hGAbli). Generally:
+
+| Height Value | Tiles Blocked |
+|:------------:|:-------------:|
+|     ≥ 20    |       4       |
+|     ≥ 16    |       3       |
+|     ≥ 12    |       2       |
+|     ≥ 8     |       1       |
 
 [⬅️ Back To Main Page](https://cestislife.github.io)
 

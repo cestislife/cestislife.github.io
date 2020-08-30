@@ -30,7 +30,7 @@ html[data-theme="dark"] {
 
 
 body {
-  background-color: (--main-background-color);
+  background-color: var(--main-background-color);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--main-text-color);

@@ -27,7 +27,8 @@
   <p>
     
 > **30/08/2020**   
-> * Added in-depth rock guide
+> * Added dark mode support   
+> * Added in-depth rock guide   
 
 > **20/08/2020**   
 > * Added Critter Schedule - leaving August   

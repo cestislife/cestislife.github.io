@@ -11,6 +11,7 @@
 > * [Rock Spawn Conditions](#rock-spawn-conditions)   
 > * [Blockers](#blockers)   
 > * [Tall Furniture](#tall-furniture)  
+> * [Rock Garden Tips](#rock-garden-tips)  
 
 
 ## Rock Spawn Conditions

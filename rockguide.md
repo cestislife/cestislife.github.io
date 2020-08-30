@@ -10,7 +10,11 @@
 > #### Navigation
 > * [Rock Spawn Conditions](#rock-spawn-conditions)   
 > * [Blockers](#blockers)   
+>   * [Single Blockers](#single-blockers)   
+>   * [Perimeter Blockers](#perimeter-blockers)   
+>   * [Obstruction Blockers](#obstruction-blockers)   
 > * [Tall Furniture](#tall-furniture)  
+>   * [Trees](#trees)   
 > * [Rock Garden Tips](#rock-garden-tips)  
 
 ## tl;dr Infographics:   

@@ -13,6 +13,9 @@
 > * [Tall Furniture](#tall-furniture)  
 > * [Rock Garden Tips](#rock-garden-tips)  
 
+## Compressed Infographics:   
+> [Rock Guide Page 1](https://cestislife.github.io/img/grock_01.png)   
+> [Rock Guide Page 2](https://cestislife.github.io/img/grock_02.png)
 
 ## Rock Spawn Conditions
 * Rocks may **only** spawn on grass and any diggable paths such as the dirt path, dark dirt path, and sand path.

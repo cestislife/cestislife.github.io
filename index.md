@@ -24,9 +24,5 @@
 
 <button class="accordion">Click for details</button>
 <div class="panel">
-<p>
-    
-Test
-
-</p>
+    <p>Test</p>
 </div>

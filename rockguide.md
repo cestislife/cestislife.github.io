@@ -17,9 +17,9 @@
 In order to force a rock to spawn where we want, we employ the use of blockers to prevent them spawning in places that we don’t want them to.
 
 There are three main classes of blockers, that is:
-> * Single blocker
-> * Perimeter blocker
-> * Obstruction blocker    
+> ❶ Single blocker   
+> ❷ Perimeter blocker   
+> ❸ Obstruction blocker       
 
 ### Single Blockers
 These will only block their own tile. These blockers are typically those without a hitbox.

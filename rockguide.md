@@ -1,5 +1,5 @@
 # Rock Gardens 101
-![Rock Gardens 101](https://imgur.com/6lWMqIc.png)
+![Rock Gardens 101](https://imgur.com/6lWMqIc.png)   
 *Updated 30/08/2020*
 
 <head>

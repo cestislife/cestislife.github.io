@@ -14,7 +14,7 @@
 
 ## Garden Guides:
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
-* [Rock Gardens 101](https://cestislife.github.io/rock_guide)
+* [Rock Gardens 101](https://cestislife.github.io/rockguide) *⭐ New!* 
 
 ## Miscellaneous Guides:
 * [Miscellaneous](https://cestislife.github.io/misc)
@@ -26,6 +26,9 @@
   <summary>Click here to expand!</summary>
   <p>
     
+> **30/08/2020**   
+> * Added in-depth rock guide
+
 > **20/08/2020**   
 > * Added Critter Schedule - leaving August   
 

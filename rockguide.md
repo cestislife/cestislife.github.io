@@ -85,6 +85,11 @@ Furniture have height values and with this, it determines how far north a certai
 </tbody>
 </table>
 
+### Trees
+Trees are also considered "tall furniture", but only block **3 tiles north** of them. An exception to this is the **cedar** tree, where it blocks **4 tiles north** instead. 
+
+Trees present another unique rule where they can also block an area of 3 tiles horizontally, 2 tiles north of their occupying tile. The illustration below compares the difference between cedar trees and other trees. 
+
 [⬅️ Back To Main Page](https://cestislife.github.io)
 
 ***

@@ -60,10 +60,10 @@ Furniture have height values and with this, it determines how far north a certai
 
 | Height Value | Tiles Blocked |
 |:------------:|:-------------:|
-|     ≥ 20    |       4       |
-|     ≥ 16    |       3       |
-|     ≥ 12    |       2       |
-|     ≥ 8     |       1       |
+|     ≥ 20     |       4       |
+|     ≥ 16     |       3       |
+|     ≥ 12     |       2       |
+|      ≥ 8     |       1       |
 
 [⬅️ Back To Main Page](https://cestislife.github.io)
 

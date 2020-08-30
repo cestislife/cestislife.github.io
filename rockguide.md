@@ -58,12 +58,32 @@ Examples include:
 ## Tall Furniture
 Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. A list of the furniture heights can be found [here](https://bit.ly/3hGAbli). Generally:
 
-| Height Value | Tiles Blocked |
-|:------------:|:-------------:|
-|     ≥ 20     |       4       |
-|     ≥ 16     |       3       |
-|     ≥ 12     |       2       |
-|      ≥ 8     |       1       |
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Height Value</th>
+    <th class="tg-c3ow">Tiles Blocked</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">≥ 20</td>
+    <td class="tg-c3ow">4</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">≥ 16</td>
+    <td class="tg-c3ow">3</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">≥ 12</td>
+    <td class="tg-c3ow">2</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">≥ 8</td>
+    <td class="tg-c3ow">1</td>
+  </tr>
+</tbody>
+</table>
 
 [⬅️ Back To Main Page](https://cestislife.github.io)
 

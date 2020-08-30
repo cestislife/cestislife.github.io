@@ -38,7 +38,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color: var(--main-text-color);
   margin:0 0 20px;
 }
 
@@ -56,12 +56,12 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color: var(--main-text-color);
   font-weight: 500;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color: var(--main-text-color);
   font-weight: 500;
 }
 
@@ -76,13 +76,13 @@ a:hover {
 
 a small {
   font-size:11px;
-  color:#777;
+  color: var(--link-color);
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color: var(--link-color);
 }
 
 .wrapper {
@@ -169,7 +169,7 @@ header li:last-child a {
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color: var(--main-text-color);
   display:block;
   text-align:center;
   padding-top:6px;
@@ -177,7 +177,7 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#999;
+  color: var(--main-text-color);
 }
 
 header ul a:active {
@@ -185,7 +185,7 @@ header ul a:active {
 }
 
 strong {
-  color:#222;
+  color: var(--main-text-color);
   font-weight:500;
 }
 
@@ -197,7 +197,7 @@ header ul li + li + li {
 header ul a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color: var(--main-text-color);
 }
 
 section {

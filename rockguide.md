@@ -53,7 +53,7 @@ Examples include:
 > * Shrubs
 
 ### Obstruction Blockers
-“Tall” furniture or structures will block several tiles  (depends on height) behind the tiles they occupy as well as their perimeter. They could also block across multiple cliff levels.
+Obstruction blockers will block several tiles north of their occupying tiles. Buildings and cliffs will always block **4 tiles north**, while furniture's blocking size is dependant on their height, as will be explored in the [next section](#tall-furniture). It should be noted that these blockers can also block across multiple cliff levels.
 
 Examples include:
 > * Cliffs

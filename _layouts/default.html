@@ -30,7 +30,9 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        
+        <p><a id="theme-toggle" onclick="modeSwitcher()"></a></p>
+        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}

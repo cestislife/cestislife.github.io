@@ -92,8 +92,6 @@ Trees are also considered "tall furniture", but only block **3 tiles north** of 
 
 Trees present another unique rule where they can also block an area of 3 tiles horizontally, 2 tiles north of their occupying tile. The illustration below compares the difference between cedar trees and other trees. 
 
-[⬅️ Back To Main Page](https://cestislife.github.io)
-
 ## Rock Garden Tips
 1. Placed custom designs (mannequins and easels) are the easiest to clean up blockers.  
 2. Perimeter blockers can be placed on half tiles to extend their blocking range.
@@ -101,6 +99,7 @@ Trees present another unique rule where they can also block an area of 3 tiles h
 4. For rocks that have not spawned where you wanted it to be, it could be that it has spawned elsewhere instead.
 5. Use a toilet as an entrance to your rock garden to prevent breaking any rocks in the area.
 
+[⬅️ Back To Main Page](https://cestislife.github.io)
 ***
 
 #### Credits

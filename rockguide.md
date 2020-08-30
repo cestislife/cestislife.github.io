@@ -93,6 +93,9 @@ Trees are also considered "tall furniture", but only block **3 tiles north** of 
 
 Trees present another unique rule where they can also block an area of 3 tiles horizontally, 2 tiles north of their occupying tile. The illustration below compares the difference between cedar trees and other trees. 
 
+![Tree Differences](https://imgur.com/MiSmv3Y.png)
+*The red Xs represent the perimeter and vertical blocking. The blue Xs represent the horizontal blocking.*
+
 ## Rock Garden Tips
 1. Placed custom designs (mannequins and easels) are the easiest to clean up blockers.  
 2. Perimeter blockers can be placed on half tiles to extend their blocking range.

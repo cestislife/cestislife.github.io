@@ -59,6 +59,7 @@ Examples include:
 > * Placed custom designs (mannequins & easels)
 > * Placed furniture (exceptions being “tall” furniture)
 > * Shrubs
+> * Bridges (special case!)
 
 ![Perimeter Blocker](https://imgur.com/nvsg1mU.png)
 
@@ -73,7 +74,7 @@ Obstruction blockers will block several tiles north of their occupying tiles. Bu
 
 Examples include:
 > * Cliffs
-> * Buildings (incl. inclines and bridges)
+> * Buildings (such as houses, inclines and other facilities)
 > * Trees
 > * Placed “tall” furniture
 

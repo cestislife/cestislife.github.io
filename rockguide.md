@@ -7,7 +7,7 @@
     <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
 </head>
 
-## Navigation
+> #### Navigation
 > * [Rock Spawn Conditions](#rock-spawn-conditions)   
 > * [Blockers](#blockers)   
 > * [Tall Furniture](#tall-furniture)  

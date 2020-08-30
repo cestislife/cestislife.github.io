@@ -56,6 +56,12 @@ Examples include:
 
 ![Perimeter Blocker](https://imgur.com/nvsg1mU.png)
 
+While perimeter blockers only block 1 tile around them, there is a way to extend this by placing them on **half tiles**. The following visual shows the range that this blocks.
+
+![Half Tile](https://imgur.com/o8MRby3.png)
+*The holes are there to give an indication of the tile boundaries. With the mannequin being in the half tile on 4 tiles, this essentially **extends the blocker range to be 4x4**, insetad of the usual 3x3. Take this into consideration when laying down blockers.*
+
+
 ### Obstruction Blockers
 Obstruction blockers will block several tiles north of their occupying tiles. Buildings and cliffs will always block **4 tiles north**, while furniture's blocking size is dependant on their height, as will be explored in the [next section](#tall-furniture). It should be noted that these blockers can also block across multiple cliff levels.
 

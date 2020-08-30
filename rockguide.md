@@ -18,6 +18,7 @@
 * Rocks cannot spawn on non-diggable paths, custom designs, the beach, and any other location with spawn condition not met.
 * Rocks can be blocked from spawning if it is within a blocker’s range. 
 * A rock’s required spawn area, can overlap another rock’s required spawn area, as such, the minimum distance between rocks is 1 tile. 
+* Rocks can all spawn within an acre. 
 
 ## Blockers
 In order to force a rock to spawn where we want, we employ the use of blockers to prevent them spawning in places that we don’t want them to.
@@ -92,6 +93,13 @@ Trees are also considered "tall furniture", but only block **3 tiles north** of 
 Trees present another unique rule where they can also block an area of 3 tiles horizontally, 2 tiles north of their occupying tile. The illustration below compares the difference between cedar trees and other trees. 
 
 [⬅️ Back To Main Page](https://cestislife.github.io)
+
+## Rock Garden Tips
+1. Placed custom designs (mannequins and easels) are the easiest to clean up blockers.  
+2. Perimeter blockers can be placed on half tiles to extend their blocking range.
+3. Furniture/decorations can be placed after the rocks have spawned. 
+4. For rocks that have not spawned where you wanted it to be, it could be that it has spawned elsewhere instead.
+5. Use a toilet as an entrance to your rock garden to prevent breaking any rocks in the area.
 
 ***
 

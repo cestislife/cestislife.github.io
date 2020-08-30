@@ -8,9 +8,9 @@
 </head>
 
 ## Navigation
-> • [Rock Spawn Conditions](#rock-spawn-conditions)   
-> • [Blockers](#blockers)   
-> • [Tall Furniture](#tall-furniture)  
+> * [Rock Spawn Conditions](#rock-spawn-conditions)   
+> * [Blockers](#blockers)   
+> * [Tall Furniture](#tall-furniture)  
 
 
 ## Rock Spawn Conditions

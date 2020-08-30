@@ -42,6 +42,8 @@ Examples include:
 > * Placed non-diggable paths
 > * Dig spots
 
+![Single Blocker](https://imgur.com/1i2W1On.png)
+
 ### Perimeter Blockers
 Natural blockers (beach, water, cliffs), furniture or placed items typically only block a **perimeter of 1 tile** around the tiles they occupy. Generally, anything with a hitbox will be perimeter blockers. “Tall” furniture will be discussed in their own dedicated section.
 
@@ -52,6 +54,8 @@ Examples include:
 > * Placed furniture (exceptions being “tall” furniture)
 > * Shrubs
 
+![Perimeter Blocker](https://imgur.com/nvsg1mU.png)
+
 ### Obstruction Blockers
 Obstruction blockers will block several tiles north of their occupying tiles. Buildings and cliffs will always block **4 tiles north**, while furniture's blocking size is dependant on their height, as will be explored in the [next section](#tall-furniture). It should be noted that these blockers can also block across multiple cliff levels.
 
@@ -60,6 +64,8 @@ Examples include:
 > * Buildings (incl. inclines and bridges)
 > * Trees
 > * Placed “tall” furniture
+
+![Obstruction Blockers](https://imgur.com/HSXsN1x.png)
 
 ## Tall Furniture
 Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. **A list of the furniture heights** (courtesy of Zertolurian#9617) can be found [here](https://bit.ly/3hGAbli). Generally:

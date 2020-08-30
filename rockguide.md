@@ -16,9 +16,9 @@
 
 ## Rock Spawn Conditions
 * Rocks may **only** spawn on grass and any diggable paths such as the dirt path, dark dirt path, and sand path.
-* Rocks cannot spawn on non-diggable paths, custom designs, the beach, and any other location with spawn condition not met.
+* Rocks **cannot** spawn on non-diggable paths, custom designs, the beach, and any other location with spawn condition not met.
 * Rocks can be blocked from spawning if it is within a blocker’s range. 
-* A rock’s required spawn area, can overlap another rock’s required spawn area, as such, the minimum distance between rocks is 1 tile. 
+* A rock’s required spawn area, can overlap another rock’s required spawn area, as such, the **minimum distance between rocks is 1 tile**. 
 * Rocks can all spawn within an acre. 
 
 ## Blockers
@@ -30,7 +30,7 @@ There are three main classes of blockers, that is:
 ❸ [Obstruction blocker](#obstruction-blockers)       
 
 ### Single Blockers
-These will only block their own tile. These blockers are typically those without a hitbox.
+These will only block their **own tile**. These blockers are typically those without a hitbox.
 
 Examples include:
 > * Dropped items
@@ -40,7 +40,7 @@ Examples include:
 > * Dig spots
 
 ### Perimeter Blockers
-Natural blockers (beach, water, cliffs), furniture or placed items typically only block a perimeter of ① tile around the tiles they occupy. Generally, anything with a hitbox will be perimeter blockers. “Tall” furniture will be discussed in their own dedicated section.
+Natural blockers (beach, water, cliffs), furniture or placed items typically only block a **perimeter of 1 tile** around the tiles they occupy. Generally, anything with a hitbox will be perimeter blockers. “Tall” furniture will be discussed in their own dedicated section.
 
 Examples include:
 > * Tiles adjacent to beach, water tiles, and cliff edges
@@ -59,7 +59,7 @@ Examples include:
 > * Placed “tall” furniture
 
 ## Tall Furniture
-Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. A list of the furniture heights (courtesy of Zertolurian#9617) can be found [here](https://bit.ly/3hGAbli). Generally:
+Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. **A list of the furniture heights** (courtesy of Zertolurian#9617) can be found [here](https://bit.ly/3hGAbli). Generally:
 
 <table class="tg">
 <thead>

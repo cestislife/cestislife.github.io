@@ -16,12 +16,12 @@
 ## Blockers
 In order to force a rock to spawn where we want, we employ the use of blockers to prevent them spawning in places that we don’t want them to.
 
-There are three main classes of blockers, that is:
-> ❶ Single blocker   
-> ❷ Perimeter blocker   
-> ❸ Obstruction blocker       
+There are three main classes of blockers, that is:   
+❶ Single blocker   
+❷ Perimeter blocker   
+❸ Obstruction blocker       
 
-### Single Blockers
+### ❶ Single Blockers
 These will only block their own tile. These blockers are typically those without a hitbox.
 
 Examples include:
@@ -31,7 +31,7 @@ Examples include:
 > * Placed non-diggable paths
 > * Dig spots
 
-### Perimeter Blockers
+### ❷ Perimeter Blockers
 Natural blockers (beach, water, cliffs), furniture or placed items typically only block a perimeter of ① tile around the tiles they occupy. Generally, anything with a hitbox will be perimeter blockers. “Tall” furniture will be discussed in their own dedicated section.
 
 Examples include:
@@ -41,7 +41,7 @@ Examples include:
 > * Placed furniture (exceptions being “tall” furniture)
 > * Shrubs
 
-### Obstruction Blockers
+### ❸ Obstruction Blockers
 “Tall” furniture or structures will block several tiles  (depends on height) behind the tiles they occupy as well as their perimeter. They could also block across multiple cliff levels.
 
 Examples include:

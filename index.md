@@ -25,6 +25,9 @@
 <details>
     <summary>Click for more</summary>
     
+> **31/08/2020**   
+> * Added Critter Schedule - arriving September     
+
 > **30/08/2020**   
 > * Added dark mode support   
 > * Added in-depth rock guide   

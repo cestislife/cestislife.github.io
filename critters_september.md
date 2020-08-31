@@ -13,7 +13,8 @@
 [![SH Leaving August](/img/SH_aug_out.png)](/img/SH_aug_out.png)
 
 ## Arriving with September
-Coming soon!
+[![NH Arriving September](/img/NH_sep_in.png)](/img/NH_sep_in.png)
+[![SH Arriving September](/img/SH_sep_in.png)](/img/SH_sep_in.png)
    
 [⬅️ Back To Main Page](https://cestislife.github.io)
 

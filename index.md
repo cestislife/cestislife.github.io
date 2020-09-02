@@ -17,6 +17,7 @@
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) *⭐ New!* 
 
 ## Miscellaneous Guides:
+* [Seasonal DIYs](https://cestislife.github.io/seasonaldiy)
 * [Miscellaneous](https://cestislife.github.io/misc)
 
 * * *
@@ -25,6 +26,9 @@
 <details>
     <summary>Click for more</summary>
     
+> **02/09/2020**   
+> * Added seasonal DIY guide 
+
 > **31/08/2020**   
 > * Added Critter Schedule - arriving September     
 

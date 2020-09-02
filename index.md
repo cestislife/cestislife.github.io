@@ -18,6 +18,7 @@
 
 ## Miscellaneous Guides:
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) *⭐ New!* 
+* [Mystery Islands](https://cestislife.github.io/mysteryislands) *⭐ New!* 
 * [Miscellaneous](https://cestislife.github.io/misc)
 
 * * *
@@ -27,7 +28,8 @@
     <summary>Click for more</summary>
     
 > **02/09/2020**   
-> * Added seasonal DIY guide 
+> * Added seasonal DIY guide    
+> * Added mystery island guide   
 
 > **31/08/2020**   
 > * Added Critter Schedule - arriving September     

@@ -14,10 +14,10 @@
 
 ## Garden Guides:
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
-* [Rock Gardens 101](https://cestislife.github.io/rockguide) *⭐ New!* 
+* [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
-* [Seasonal DIYs](https://cestislife.github.io/seasonaldiy)
+* [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) *⭐ New!* 
 * [Miscellaneous](https://cestislife.github.io/misc)
 
 * * *

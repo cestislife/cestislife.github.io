@@ -7,6 +7,8 @@
     <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
 </head>
 
+*Note that the displayed percentages assumes you have the Residential Services building upgraded, and have the vaulting pole and ladder in your inventory. Please refer to the [spreadsheet](https://docs.google.com/spreadsheets/d/1w-bDgH5RjkSqvNQ6J5YNvBEqHswATiMB3T2P3cnLCsc/edit#gid=240876288) for detailed percentages for all cases*
+
 [![Page 1](https://cestislife.github.io/img/mysteryisland/misland1.png)](https://cestislife.github.io/img/mysteryisland/misland1.png)
 [![Page 2](https://cestislife.github.io/img/mysteryisland/misland2.png)](https://cestislife.github.io/img/mysteryisland/misland2.png)
 

@@ -17,6 +17,6 @@
 
 #### Credits
 > Data from: [Data Spreadsheet for Animal Crossing New Horizons](https://tinyurl.com/acnh-sheet)   
-> Datamine: [@_Ninji](https://twitter.com/_ninji), Alexis#8717, astrologyforthree#3515
+> Datamine: [@_Ninji](https://twitter.com/_ninji), Alexis#8717, astronomyfortwo#4112
 > Assets extracted by: Alexis#8717   
 > Guide by: [@cestislife](https://twitter.com/cestislife)

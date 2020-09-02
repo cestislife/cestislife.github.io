@@ -18,7 +18,7 @@
 
 ## Miscellaneous Guides:
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) *⭐ New!* 
-* [Mystery Islands](https://cestislife.github.io/mysteryislands) *⭐ New!* 
+* [Mystery Islands](https://cestislife.github.io/mysteryisland) *⭐ New!* 
 * [Miscellaneous](https://cestislife.github.io/misc)
 
 * * *

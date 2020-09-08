@@ -1,6 +1,6 @@
 # Rock Gardens 101
 ![Rock Gardens 101](https://imgur.com/6lWMqIc.png)   
-*Updated 30/08/2020*
+*Updated 09/09/2020*
 
 <head>
     <meta name="twitter:card" content="summary" />
@@ -79,6 +79,10 @@ Examples include:
 > * Placed “tall” furniture
 
 ![Obstruction Blockers](https://imgur.com/HSXsN1x.png)
+*Furniture with observable height are considered obstruction blockers.* 
+
+![Cliffs as Obstruction Blockers](https://imgur.com/yGEgHCE.png)
+*Cliffs are regarded as obstruction blockers, and are the main cause of rocks not spawning on your island. Do make sure to flatten any cliffs immediately south of your rock gardens.* 
 
 ## Tall Furniture
 Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. **A list of the furniture heights** (courtesy of Zertolurian#9617) can be found [here](https://bit.ly/3hGAbli). Generally:
@@ -120,6 +124,7 @@ Trees present another unique rule where they can also block an area of 3 tiles h
 
 ## Rock Garden Tips
 1. Placed custom designs (mannequins and easels) are the easiest blockers to clean up. 
+2. Using single tile cliffs is also a viable blocking technique, though it does require more work to clean up.
 2. Perimeter blockers can be placed on half tiles to extend their blocking range.
 3. Furniture/decorations can be placed after the rocks have spawned. 
 4. For rocks that have not spawned where you wanted it to be, it could be that it has spawned elsewhere instead.

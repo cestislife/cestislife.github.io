@@ -10,15 +10,16 @@
 ## Critter Guides:
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
-* [Critters in September](https://cestislife.github.io/critters_september)  *⭐ New!* 
+* [Critters in September](https://cestislife.github.io/critters_september)
+* [Critters in October](https://cestislife.github.io/critters_october)  *⭐ New!* 
 
 ## Garden Guides:
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
-* [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) *⭐ New!* 
-* [Mystery Islands](https://cestislife.github.io/mysteryisland) *⭐ New!* 
+* [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 
+* [Mystery Islands](https://cestislife.github.io/mysteryisland) 
 * [Miscellaneous](https://cestislife.github.io/misc)
 
 * * *
@@ -26,6 +27,9 @@
 
 <details>
     <summary>Click for more</summary>
+    
+> **31/08/2020**   
+> * Added Critter Schedule - leaving September
     
 > **02/09/2020**   
 > * Added seasonal DIY guide    

@@ -28,7 +28,11 @@
 <details>
     <summary>Click for more</summary>
     
-> **31/08/2020**   
+> **30/09/2020**   
+> * Added Critter Schedule - arriving October
+> * Added Halloween guide
+    
+> **20/09/2020**   
 > * Added Critter Schedule - leaving September
     
 > **02/09/2020**   

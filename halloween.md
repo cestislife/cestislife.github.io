@@ -11,6 +11,7 @@
 ***
 
 #### Credits
-> Datamining: Stoney#9215      
+> Candy mechanics datamined by: Stoney#9215      
+> Items & DIYs datamined by: rocklamp#3458, astronomyfortwo#4112, robotic_scarab#5926, vmario#2516, StevieCoops#6772   
 > Assets extracted by: Alexis#8717   
 > Guide by: [@cestislife](https://twitter.com/cestislife)

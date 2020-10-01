@@ -18,6 +18,7 @@
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
+* [🎃 Halloween](https://cestislife.github.io/halloween) *⭐ New!* 
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 
 * [Mystery Islands](https://cestislife.github.io/mysteryisland) 
 * [Miscellaneous](https://cestislife.github.io/misc)
@@ -28,6 +29,9 @@
 <details>
     <summary>Click for more</summary>
     
+> **01/10/2020**  
+> * Added candy mechanics guide
+
 > **30/09/2020**   
 > * Added Critter Schedule - arriving October
 > * Added Halloween guide

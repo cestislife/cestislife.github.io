@@ -2,7 +2,7 @@
 
 # Halloween Items & DIYs
 [![Halloween Items](/img/halloween.png)](/img/halloween.png)
-[![Halloween DIY Sources](/img/hwn-diy-source.png)](/img/hwn-diy-source.png)
+[![Halloween DIY Sources](/img/hwn-diy-sources.png)](/img/hwn-diy-sources.png)
 # Candy Mechanics
 [![Candy Mechanics](/img/candy.png)](/img/candy.png)
 

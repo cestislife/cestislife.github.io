@@ -1,6 +1,6 @@
 # Rock Gardens 101
 ![Rock Gardens 101](https://imgur.com/6lWMqIc.png)   
-*Updated 09/09/2020*
+*Updated 11/10/2020*
 
 <head>
     <meta name="twitter:card" content="summary" />
@@ -22,6 +22,9 @@
 ## tl;dr Infographics:   
 > [Rock Guide Page 1](https://cestislife.github.io/img/grock_01.png)   
 > [Rock Guide Page 2](https://cestislife.github.io/img/grock_02.png)
+
+## Acknowledgement
+The information on this page is made possible from the datamining done by **asteriation#6884** and rigorous tests done by **Zertolurian#9617**. More technical information regarding the rock spawn algorithm can be found on **[asteriation's site.](https://acnh.isomorphicbox.com/rates/#rock-spawn-locations)**
 
 ## Rock Spawn Conditions
 * Rocks may **only** spawn on grass and any diggable paths such as the dirt path, dark dirt path, and sand path.
@@ -85,7 +88,7 @@ Examples include:
 *Cliffs are regarded as obstruction blockers, and are the main cause of rocks not spawning on your island. Do make sure to flatten any cliffs immediately south of your rock gardens.* 
 
 ## Tall Furniture
-Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. **A list of the furniture heights** (courtesy of Zertolurian#9617) can be found [here](https://bit.ly/3hGAbli). Generally:
+Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. **A list of the furniture heights** (courtesy of Zertolurian#9617) can be found **[here](https://bit.ly/3hGAbli).** Generally:
 
 <table class="tg">
 <thead>

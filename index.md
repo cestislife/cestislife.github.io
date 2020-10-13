@@ -30,6 +30,9 @@
 <details>
     <summary>Click for more</summary>
     
+> **13/10/2020**   
+> * Added Critter Schedule - leaving October
+    
 > **01/10/2020**  
 > * Added candy mechanics guide
 

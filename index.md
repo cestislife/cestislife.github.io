@@ -11,7 +11,8 @@
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
-* [Critters in October](https://cestislife.github.io/critters_october)  *⭐ New!* 
+* [Critters in October](https://cestislife.github.io/critters_october)
+* [Critters in November](https://cestislife.github.io/critters_november)  *⭐ New!* 
 
 ## Garden Guides:
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)

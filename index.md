@@ -30,6 +30,9 @@
 <details>
     <summary>Click for more</summary>
     
+> **31/10/2020**   
+> * Added Critter Schedule - arriving November
+    
 > **13/10/2020**   
 > * Added Critter Schedule - leaving October
     

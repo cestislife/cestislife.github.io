@@ -1,6 +1,6 @@
 # Rock Gardens 101
 ![Rock Gardens 101](https://imgur.com/6lWMqIc.png)   
-*Updated 11/10/2020*
+*Updated 31/10/2020*
 
 <head>
     <meta name="twitter:card" content="summary" />
@@ -10,6 +10,7 @@
 </head>
 
 > #### Navigation
+> * [Rock Gardens?](#rock-gardens)
 > * [Rock Spawn Conditions](#rock-spawn-conditions)   
 > * [Blockers](#blockers)   
 >   * [Single Blockers](#single-blockers)   
@@ -25,6 +26,17 @@
 
 ## Acknowledgement
 The information on this page is made possible from the datamining done by **asteriation#6884** and rigorous tests done by **Zertolurian#9617**. More technical information regarding the rock spawn algorithm can be found on **[asteriation's site.](https://acnh.isomorphicbox.com/rates/#rock-spawn-locations)**
+
+## Rock Gardens?
+A rock garden is a carefully planned layout of rock formations. You can manipulate where rocks can spawn by utilising blockers which will be discussed in detail in this guide. These are some things to know about rocks before you begin your rock gardening journey:
+* Rocks require a 3x3 (non-blocking) space to spawn. 
+* Only one rock spawns per day.
+* Maximum of 6 rocks can spawn per island.
+* One rock will be a designated “money rock” each day.
+* Possible loot includes clay, rocks, iron nuggets, and gold nuggets. (Rock eggs are also a possible drop during the Egg Day events.)
+* Each rock can yield a maximum of 8 drops each day.
+
+Why would one want a rock garden? There are many reasons to start your own rock garden, whether it is so you can harvest the rocks daily with ease, or as an aesthetical addition to your island. Whatever the reason, this is the place where you can learn how to do so yourself. 
 
 ## Rock Spawn Conditions
 * Rocks may **only** spawn on grass and any diggable paths such as the dirt path, dark dirt path, and sand path.

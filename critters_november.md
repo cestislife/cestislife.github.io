@@ -13,8 +13,8 @@
 [![SH Leaving October](/img/SH_oct_out.png)](/img/SH_oct_out.png)
 
 ## Arriving with November
-[![NH Arriving October](/img/NH_oct_out.png)](/img/NH_nov_in.png)
-[![SH Arriving October](/img/SH_oct_out.png)](/img/SH_nov_in.png)
+[![NH Arriving October](/img/NH_nov_in.png)](/img/NH_nov_in.png)
+[![SH Arriving October](/img/SH_nov_in.png)](/img/SH_nov_in.png)
    
 [⬅️ Back To Main Page](https://cestislife.github.io)
 

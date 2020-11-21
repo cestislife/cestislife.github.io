@@ -20,7 +20,7 @@
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
-* [🎃 Halloween](https://cestislife.github.io/halloween) *⭐ New!* 
+* [🎃 Halloween](https://cestislife.github.io/halloween)
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 
 * [Mystery Islands](https://cestislife.github.io/mysteryisland) 
 * [Miscellaneous](https://cestislife.github.io/misc)

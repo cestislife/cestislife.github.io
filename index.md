@@ -12,7 +12,8 @@
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
 * [Critters in October](https://cestislife.github.io/critters_october)
-* [Critters in November](https://cestislife.github.io/critters_november)  *⭐ New!* 
+* [Critters in November](https://cestislife.github.io/critters_november)  
+* [Critters in December](https://cestislife.github.io/critters_december)  *⭐ New!*    
 
 ## Garden Guides:
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
@@ -29,6 +30,9 @@
 
 <details>
     <summary>Click for more</summary>
+    
+> **21/11/2020**   
+> * Added Critter Schedule - leaving November
     
 > **31/10/2020**   
 > * Added Critter Schedule - arriving November

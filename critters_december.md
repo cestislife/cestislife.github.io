@@ -8,11 +8,11 @@
 </meta>
 </head>
 
-## Leaving with October
+## Leaving with November
 [![NH Leaving October](/img/NH_nov_out.png)](/img/NH_nov_out.png)
 [![SH Leaving October](/img/SH_nov_out.png)](/img/SH_nov_out.png)
 
-## Arriving with November
+## Arriving with December
 Coming soon!
    
 [⬅️ Back To Main Page](https://cestislife.github.io)

@@ -20,6 +20,7 @@
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
+* 🦃 Turkey Day (Coming soon!)
 * [🎃 Halloween](https://cestislife.github.io/halloween)
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 
 * [Mystery Islands](https://cestislife.github.io/mysteryisland) 
@@ -33,6 +34,7 @@
     
 > **21/11/2020**   
 > * Added Critter Schedule - leaving November
+> * Updated balloon guide, seasonal DIYs guide (1.6.0 update)
     
 > **31/10/2020**   
 > * Added Critter Schedule - arriving November

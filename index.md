@@ -31,7 +31,10 @@
 
 <details>
     <summary>Click for more</summary>
-   
+
+> **30/11/2020**   
+> * Added arrving critters - December
+
 > **24/11/2020**   
 > * Added Turkey Day Guide
    

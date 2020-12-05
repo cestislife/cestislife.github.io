@@ -100,7 +100,7 @@ Examples include:
 *Cliffs are regarded as obstruction blockers, and are the main cause of rocks not spawning on your island. Do make sure to flatten any cliffs immediately south of your rock gardens.* 
 
 ## Tall Furniture
-Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. **A list of the furniture heights** (courtesy of Zertolurian#9617) can be found **[here](https://bit.ly/3hGAbli).** Generally:
+Furniture have height values and with this, it determines how far north a certain furniture will block rocks from spawning. **A list of the furniture heights** (original by Zertolurian#9617, maintained by cestislife#0473) can be found **[here](https://tinyurl.com/acnh-tallfurni).** Generally:
 
 <table class="tg">
 <thead>

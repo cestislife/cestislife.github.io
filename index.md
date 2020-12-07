@@ -20,17 +20,20 @@
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
-* [🦃 Turkey Day](https://cestislife.github.io/turkeyday) *⭐ New!*    
+* [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     
 * [🎃 Halloween](https://cestislife.github.io/halloween)
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 
 * [Mystery Islands](https://cestislife.github.io/mysteryisland) 
-* [Miscellaneous](https://cestislife.github.io/misc)
+* [Miscellaneous](https://cestislife.github.io/misc) *⭐ New!*     
 
 * * *
 #### Changelog
 
 <details>
     <summary>Click for more</summary>
+
+> **07/12/2020**   
+> * Added 1.6.0 Seasonal Nook Shopping guide
 
 > **30/11/2020**   
 > * Added arrving critters - December

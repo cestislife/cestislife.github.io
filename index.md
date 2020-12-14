@@ -13,24 +13,28 @@
 * [Critters in September](https://cestislife.github.io/critters_september)
 * [Critters in October](https://cestislife.github.io/critters_october)
 * [Critters in November](https://cestislife.github.io/critters_november)  
-* [Critters in December](https://cestislife.github.io/critters_december)  *⭐ New!*    
+* [Critters in December](https://cestislife.github.io/critters_december)      
 
 ## Garden Guides:
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
+* [🎄 Toy Day](https://cestislife.github.io/toyday)  *⭐ New!*   
 * [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     
 * [🎃 Halloween](https://cestislife.github.io/halloween)
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 
 * [Mystery Islands](https://cestislife.github.io/mysteryisland) 
-* [Miscellaneous](https://cestislife.github.io/misc) *⭐ New!*     
+* [Miscellaneous](https://cestislife.github.io/misc)     
 
 * * *
 #### Changelog
 
 <details>
     <summary>Click for more</summary>
+
+> **15/12/2020**   
+> * Added Toy Day guide
 
 > **07/12/2020**   
 > * Added 1.6.0 Seasonal Nook Shopping guide

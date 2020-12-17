@@ -8,7 +8,7 @@
 </meta>
 </head>
 
-## Leaving with December
+## Leaving with December 
 [![NH Leaving Dec](/img/NH_dec_out.png)](/img/NH_dec_out.png)
 [![SH Leaving Dec](/img/SH_dec_out.png)](/img/SH_dec_out.png)
 

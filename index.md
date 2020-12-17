@@ -8,7 +8,8 @@
 </head>
 
 ## Critter Guides:
-* [Critters in July](https://cestislife.github.io/critters_july)
+* [Critters in January](https://cestislife.github.io/critters_january)   *⭐ New!*   
+* [Critters in July](https://cestislife.github.io/critters_july)   *⭐ New!*    
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
 * [Critters in October](https://cestislife.github.io/critters_october)
@@ -32,6 +33,10 @@
 
 <details>
     <summary>Click for more</summary>
+
+> **17/12/2020**   
+> * Updated June/July critter guide.
+> * Added leaving December critter guide.
 
 > **15/12/2020**   
 > * Added Toy Day guide

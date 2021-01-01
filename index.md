@@ -21,7 +21,7 @@
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
-* [🎄 Toy Day](https://cestislife.github.io/toyday)  *⭐ New!*   
+* [🎄 Toy Day](https://cestislife.github.io/toyday)
 * [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     
 * [🎃 Halloween](https://cestislife.github.io/halloween)
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 

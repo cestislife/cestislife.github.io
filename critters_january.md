@@ -13,7 +13,8 @@
 [![SH Leaving Dec](/img/SH_dec_out.png)](/img/SH_dec_out.png)
 
 ## Arriving with January
-Coming soon!
+[![NH Arriving Jan](/img/NH_jan_in.png)](/img/NH_jan_in.png)
+[![SH Arriving Jan](/img/SH_jan_in.png)](/img/SH_jan_in.png)
    
 [⬅️ Back To Main Page](https://cestislife.github.io)
 

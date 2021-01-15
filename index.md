@@ -1,12 +1,4 @@
 # ACNH Guides
-
-<head>
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@cestislife"/>
-    <meta name="twitter:title" content="cestislife's ACNH Guides"/>
-    <meta name="twitter:image" content="https://cestislife.github.io/card.png"/>
-</head>
-
 ## Critter Guides:
 * [Critters in January](https://cestislife.github.io/critters_january)   *⭐ New!*    
 * [Critters in July](https://cestislife.github.io/critters_july)

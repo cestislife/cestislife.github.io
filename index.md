@@ -1,6 +1,6 @@
 # ACNH Guides
 ## Critter Guides:
-* [Critters in January](https://cestislife.github.io/critters_january)   *⭐ New!*    
+* [Critters in January](https://cestislife.github.io/critters_january)
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
@@ -18,13 +18,16 @@
 * [🎃 Halloween](https://cestislife.github.io/halloween)
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 
 * [Mystery Islands](https://cestislife.github.io/mysteryisland) 
-* [Miscellaneous](https://cestislife.github.io/misc)     
+* [Miscellaneous](https://cestislife.github.io/misc)   *⭐ New!*    
 
 * * *
 #### Changelog
 
 <details>
     <summary>Click for more</summary>
+
+> **29/01/2021**   
+> * 1.7.0 Seasonal Nook Shopping
 
 > **01/01/2021**   
 > * Added Arriving January guide.

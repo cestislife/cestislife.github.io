@@ -1,6 +1,7 @@
 # ACNH Guides
 ## Critter Guides:
-* [Critters in January](https://cestislife.github.io/critters_january)   *⭐ New!*    
+* [Critters in January](https://cestislife.github.io/critters_january) 
+* [Critters in January](https://cestislife.github.io/critters_february)   *⭐ New!*    
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
@@ -13,6 +14,7 @@
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
+* [🦚 Festivale](https://cestislife.github.io/festivale)    *⭐ New!*  
 * [🎄 Toy Day](https://cestislife.github.io/toyday)
 * [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     
 * [🎃 Halloween](https://cestislife.github.io/halloween)
@@ -26,7 +28,11 @@
 <details>
     <summary>Click for more</summary>
 
-> **01/01/2021**   
+> **30/01/2021**   
+> * Added Festivale Guide
+> * Added February critter guide.
+
+> **29/01/2021**   
 > * Added Arriving January guide.
 
 > **17/12/2020**   

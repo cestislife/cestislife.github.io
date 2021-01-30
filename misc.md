@@ -12,6 +12,9 @@
 # 1.6.0 Seasonal Nook Shopping
 [![Tools](/img/seasonal_1.6.0.png)](/img/seasonal_1.6.0.png)
 
+# 1.7.0 Seasonal Nook Shopping
+[![](/img/seasonal_1.7.0.png)](/img/seasonal_1.7.0.png)
+
 [⬅️ Back To Main Page](https://cestislife.github.io)
 
 ***

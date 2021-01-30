@@ -1,6 +1,7 @@
 # ACNH Guides
 ## Critter Guides:
 * [Critters in January](https://cestislife.github.io/critters_january)
+* [Critters in January](https://cestislife.github.io/critters_february)    *⭐ New!*  
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
@@ -26,6 +27,10 @@
 
 <details>
     <summary>Click for more</summary>
+
+> **30/01/2021**   
+> * Added February critter guide.
+> * Added Festivale guide.
 
 > **29/01/2021**   
 > * 1.7.0 Seasonal Nook Shopping

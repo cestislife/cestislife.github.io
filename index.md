@@ -1,7 +1,7 @@
 # ACNH Guides
 ## Critter Guides:
 * [Critters in January](https://cestislife.github.io/critters_january)
-* [Critters in January](https://cestislife.github.io/critters_february)    *⭐ New!*  
+* [Critters in February](https://cestislife.github.io/critters_february)    *⭐ New!*  
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)

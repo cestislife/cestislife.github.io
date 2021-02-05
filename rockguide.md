@@ -29,7 +29,7 @@ The information on this page is made possible from the datamining done by **aste
 
 ## Rock Gardens?
 A rock garden is a carefully planned layout of rock formations. You can manipulate where rocks can spawn by utilising blockers which will be discussed in detail in this guide. These are some things to know about rocks before you begin your rock gardening journey:
-* Rocks cannot spawn adjacent to [blockers](#blockers).
+* Rocks cannot spawn adjacent to [blockers](#blockers) (except single blockers).
 * Only one rock spawns per day.
 * Maximum of 6 rocks can spawn per island.
 * One rock will be a designated “money rock” each day.

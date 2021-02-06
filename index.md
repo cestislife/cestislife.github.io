@@ -28,6 +28,9 @@
 <details>
     <summary>Click for more</summary>
 
+> **06/02/2021**   
+> * Added Reactions guide.
+
 > **30/01/2021**   
 > * Added February critter guide.
 > * Added Festivale guide.

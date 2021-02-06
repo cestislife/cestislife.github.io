@@ -9,6 +9,9 @@
 # Tools & Durability
 [![Tools](/img/tools.png)](/img/tools.png)
 
+# Reactions - Updated to 1.7.0
+[![](/img/reactions.png)](/img/reactions.png)
+
 # 1.6.0 Seasonal Nook Shopping
 [![Tools](/img/seasonal_1.6.0.png)](/img/seasonal_1.6.0.png)
 

@@ -1,7 +1,8 @@
 # ACNH Guides
 ## Critter Guides:
 * [Critters in January](https://cestislife.github.io/critters_january)
-* [Critters in February](https://cestislife.github.io/critters_february)    *⭐ New!*  
+* [Critters in February](https://cestislife.github.io/critters_february)
+* [Critters in March](https://cestislife.github.io/critters_march)    *⭐ New!*  
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
@@ -14,19 +15,22 @@
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
 ## Miscellaneous Guides:
-* [🦚 Festivale](https://cestislife.github.io/festivale)    *⭐ New!*  
+* [🦚 Festivale](https://cestislife.github.io/festivale)
 * [🎄 Toy Day](https://cestislife.github.io/toyday)
 * [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     
 * [🎃 Halloween](https://cestislife.github.io/halloween)
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy) 
 * [Mystery Islands](https://cestislife.github.io/mysteryisland) 
-* [Miscellaneous](https://cestislife.github.io/misc)   *⭐ New!*    
+* [Miscellaneous](https://cestislife.github.io/misc) 
 
 * * *
 #### Changelog
 
 <details>
     <summary>Click for more</summary>
+
+> **06/03/2021**   
+> * Added March critters
 
 > **06/02/2021**   
 > * Added Reactions guide.

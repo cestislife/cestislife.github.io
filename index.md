@@ -3,6 +3,7 @@
 * [Critters in January](https://cestislife.github.io/critters_january)
 * [Critters in February](https://cestislife.github.io/critters_february)
 * [Critters in March](https://cestislife.github.io/critters_march)    *⭐ New!*  
+* [Critters in April](https://cestislife.github.io/critters_april)    *⭐ New!*  
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
@@ -31,6 +32,7 @@
 
 > **06/03/2021**   
 > * Added March critters
+> * Added April critters
 
 > **06/02/2021**   
 > * Added Reactions guide.

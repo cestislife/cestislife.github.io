@@ -30,6 +30,9 @@
 <details>
     <summary>Click for more</summary>
 
+> **22/03/2021**   
+> * Added French translation for certain guides
+
 > **06/03/2021**   
 > * Added March critters
 > * Added April critters

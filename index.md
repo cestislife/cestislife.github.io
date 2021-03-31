@@ -2,7 +2,7 @@
 ## Critter Guides:
 * [Critters in January](https://cestislife.github.io/critters_january)
 * [Critters in February](https://cestislife.github.io/critters_february)
-* [Critters in March](https://cestislife.github.io/critters_march)    *⭐ New!*  
+* [Critters in March](https://cestislife.github.io/critters_march)  
 * [Critters in April](https://cestislife.github.io/critters_april)    *⭐ New!*  
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
@@ -17,6 +17,7 @@
 
 ## Miscellaneous Guides:
 * [🦚 Festivale](https://cestislife.github.io/festivale)
+* [🥚 Bunny Day](https://cestislife.github.io/bunnyday)     *⭐ New!*       
 * [🎄 Toy Day](https://cestislife.github.io/toyday)
 * [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     
 * [🎃 Halloween](https://cestislife.github.io/halloween)
@@ -29,6 +30,9 @@
 
 <details>
     <summary>Click for more</summary>
+
+> **31/03/2021**   
+> * Added bunny day guide.
 
 > **22/03/2021**   
 > * Added French translation for certain guides

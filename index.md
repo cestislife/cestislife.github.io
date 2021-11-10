@@ -4,8 +4,8 @@
 * [Critters in February](https://cestislife.github.io/critters_february)
 * [Critters in March](https://cestislife.github.io/critters_march)  
 * [Critters in April](https://cestislife.github.io/critters_april)     
-* [Critters in May](https://cestislife.github.io/critters_may)    *⭐ New!*  
-* [Critters in June](https://cestislife.github.io/critters_june)    *⭐ New!*  
+* [Critters in May](https://cestislife.github.io/critters_may)
+* [Critters in June](https://cestislife.github.io/critters_june)
 * [Critters in July](https://cestislife.github.io/critters_july)
 * [Critters in August](https://cestislife.github.io/critters_august)
 * [Critters in September](https://cestislife.github.io/critters_september)
@@ -17,12 +17,15 @@
 * [🌹 Flower Guides](https://cestislife.github.io/flower_guides)
 * [Rock Gardens 101](https://cestislife.github.io/rockguide) 
 
-## Miscellaneous Guides:
+## Event Guides:
 * [🦚 Festivale](https://cestislife.github.io/festivale)   
 * [🥚 Bunny Day](https://cestislife.github.io/bunnyday)         
 * [🎄 Toy Day](https://cestislife.github.io/toyday)   
 * [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     
 * [🎃 Halloween](https://cestislife.github.io/halloween)  
+
+## Misc Guides:
+* [☕ Brewster & The Roost](https://cestislife.github.io/brewster)   *⭐ New!*  
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy)   
 * [Mystery Islands](https://cestislife.github.io/mysteryisland)   
 * [Miscellaneous](https://cestislife.github.io/misc)   
@@ -32,6 +35,10 @@
 
 <details>
     <summary>Click for more</summary>
+
+
+> **10/11/2021**   
+> * Added Brewster guide.
 
 > **03/06/2021**   
 > * Added May and June critters.

@@ -18,7 +18,7 @@ Translations:
 Translations:
 [French](/img/tools_fr.png)
 
-# Reactions - Updated to 1.7.0
+# Reactions - Updated to 2.0.0
 [![](/img/reactions.png)](/img/reactions.png)
 
 # 1.6.0 Seasonal Nook Shopping

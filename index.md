@@ -28,7 +28,7 @@
 * [☕ Brewster & The Roost](https://cestislife.github.io/brewster)   *⭐ New!*  
 * [Seasonal DIYs](https://cestislife.github.io/seasonaldiy)   
 * [Mystery Islands](https://cestislife.github.io/mysteryisland)   
-* [Miscellaneous](https://cestislife.github.io/misc)   
+* [Miscellaneous](https://cestislife.github.io/misc)   *⭐ New! Reactions updated to 2.0.0*  
 
 * * *
 #### Changelog
@@ -39,6 +39,7 @@
 
 > **10/11/2021**   
 > * Added Brewster guide.
+> * Updated reactions guide
 
 > **03/06/2021**   
 > * Added May and June critters.

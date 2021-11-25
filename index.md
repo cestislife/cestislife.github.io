@@ -21,7 +21,7 @@
 * [🦚 Festivale](https://cestislife.github.io/festivale)   
 * [🥚 Bunny Day](https://cestislife.github.io/bunnyday)         
 * [🎄 Toy Day](https://cestislife.github.io/toyday)   
-* [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     
+* [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     *⭐ New! Guide updated to 2.0.3*   
 * [🎃 Halloween](https://cestislife.github.io/halloween)  
 
 ## Misc Guides:
@@ -36,6 +36,8 @@
 <details>
     <summary>Click for more</summary>
 
+> **25/11/2021**   
+> * Updated Turkey Day guide.
 
 > **10/11/2021**   
 > * Added Brewster guide.

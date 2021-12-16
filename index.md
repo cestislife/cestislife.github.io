@@ -21,20 +21,23 @@
 * [🦚 Festivale](https://cestislife.github.io/festivale)   
 * [🥚 Bunny Day](https://cestislife.github.io/bunnyday)         
 * [🎄 Toy Day](https://cestislife.github.io/toyday)   
-* [🦃 Turkey Day](https://cestislife.github.io/turkeyday)     *⭐ New! Guide updated to 2.0.3*   
+* [🦃 Turkey Day](https://cestislife.github.io/turkeyday)
 * [🎃 Halloween](https://cestislife.github.io/halloween)  
 
 ## Misc Guides:
-* [☕ Brewster & The Roost](https://cestislife.github.io/brewster)   *⭐ New!*  
-* [Seasonal DIYs](https://cestislife.github.io/seasonaldiy)   
+* [☕ Brewster & The Roost](https://cestislife.github.io/brewster)
+* [Seasonal DIYs](https://cestislife.github.io/seasonaldiy)   *⭐ New! Guide updated to 2.0.4*   
 * [Mystery Islands](https://cestislife.github.io/mysteryisland)   
-* [Miscellaneous](https://cestislife.github.io/misc)   *⭐ New! Reactions updated to 2.0.0*  
+* [Miscellaneous](https://cestislife.github.io/misc)
 
 * * *
 #### Changelog
 
 <details>
     <summary>Click for more</summary>
+
+> **16/12/2021**   
+> * Updated seasonal DIY guides.
 
 > **25/11/2021**   
 > * Updated Turkey Day guide.
